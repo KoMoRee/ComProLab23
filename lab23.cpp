@@ -2,10 +2,6 @@
 #include<cmath>
 using namespace std;
 
-#include<iostream>
-#include<cmath>
-using namespace std;
-
 class ComplexNumber{				
 	public:
 		double real;
